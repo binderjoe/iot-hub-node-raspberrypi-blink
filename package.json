@@ -1,15 +1,7 @@
 {
-  "name": "master-cli",
-  "version": "1.0.0",
-  "description": "Master CLI for Azure IoT Stuff",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {    
+  "description": "This json file lists all the npm packages needed by gulpfile.js",
+  "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-common": "Azure/gulp-common.git#master"
+    "gulp-common": "Azure/gulp-common.git#v0.9.0"
   }
 }
