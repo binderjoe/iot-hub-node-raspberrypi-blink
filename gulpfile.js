@@ -1,1 +1,1 @@
-﻿require('gulp-common')(require('gulp'), 'raspberrypi-node-blink');
+﻿require('gulp-common')(require('gulp'), 'raspberrypi-node');
