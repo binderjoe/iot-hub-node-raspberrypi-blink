@@ -1,3 +1,5 @@
+'use strict'
+
 var wpi = require('wiring-pi');
 
 // GPIO pin of the LED

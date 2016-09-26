@@ -3,6 +3,6 @@
   "device_user_name": "pi",
   "device_password": "raspberry",
   "project_folder": "./node-pi-blink",
-  "start_file": "blink.js",
+  "start_file": "app.js",
   "ssh_port": 22
 }
