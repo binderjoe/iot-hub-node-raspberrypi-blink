@@ -1,4 +1,7 @@
-'use strict'
+/*
+* IoT Hub Raspberry Pi NodeJS Blink - Microsoft Sample Code - Copyright (c) 2016 - Licensed MIT
+*/
+'use strict';
 
 var wpi = require('wiring-pi');
 
