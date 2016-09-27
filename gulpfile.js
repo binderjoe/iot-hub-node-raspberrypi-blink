@@ -1,1 +1,1 @@
-﻿require('gulp-common')(require('gulp'), 'raspberrypi-node');
+﻿require('gulp-common')(require('gulp'), 'raspberrypi-node', { appName: 'blink' });
